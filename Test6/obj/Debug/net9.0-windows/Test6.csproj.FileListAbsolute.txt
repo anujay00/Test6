@@ -1,0 +1,17 @@
+C:\Users\Anujaya\Desktop\C#\lab 6\Test6\Test6\bin\Debug\net9.0-windows\Test6.exe
+C:\Users\Anujaya\Desktop\C#\lab 6\Test6\Test6\bin\Debug\net9.0-windows\Test6.deps.json
+C:\Users\Anujaya\Desktop\C#\lab 6\Test6\Test6\bin\Debug\net9.0-windows\Test6.runtimeconfig.json
+C:\Users\Anujaya\Desktop\C#\lab 6\Test6\Test6\bin\Debug\net9.0-windows\Test6.dll
+C:\Users\Anujaya\Desktop\C#\lab 6\Test6\Test6\bin\Debug\net9.0-windows\Test6.pdb
+C:\Users\Anujaya\Desktop\C#\lab 6\Test6\Test6\obj\Debug\net9.0-windows\Test6.Form1.resources
+C:\Users\Anujaya\Desktop\C#\lab 6\Test6\Test6\obj\Debug\net9.0-windows\Test6.Form2.resources
+C:\Users\Anujaya\Desktop\C#\lab 6\Test6\Test6\obj\Debug\net9.0-windows\Test6.csproj.GenerateResource.cache
+C:\Users\Anujaya\Desktop\C#\lab 6\Test6\Test6\obj\Debug\net9.0-windows\Test6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anujaya\Desktop\C#\lab 6\Test6\Test6\obj\Debug\net9.0-windows\Test6.AssemblyInfoInputs.cache
+C:\Users\Anujaya\Desktop\C#\lab 6\Test6\Test6\obj\Debug\net9.0-windows\Test6.AssemblyInfo.cs
+C:\Users\Anujaya\Desktop\C#\lab 6\Test6\Test6\obj\Debug\net9.0-windows\Test6.csproj.CoreCompileInputs.cache
+C:\Users\Anujaya\Desktop\C#\lab 6\Test6\Test6\obj\Debug\net9.0-windows\Test6.dll
+C:\Users\Anujaya\Desktop\C#\lab 6\Test6\Test6\obj\Debug\net9.0-windows\refint\Test6.dll
+C:\Users\Anujaya\Desktop\C#\lab 6\Test6\Test6\obj\Debug\net9.0-windows\Test6.pdb
+C:\Users\Anujaya\Desktop\C#\lab 6\Test6\Test6\obj\Debug\net9.0-windows\Test6.genruntimeconfig.cache
+C:\Users\Anujaya\Desktop\C#\lab 6\Test6\Test6\obj\Debug\net9.0-windows\ref\Test6.dll
